@@ -1,0 +1,120 @@
+{
+  "Era": {
+    "Les petites bourrettes": 0.8,
+    "C418": 0.2,
+    "Didier Super": 0.85,
+    "La chanson du dimanche": 0.8,
+    "Yann Tiersen": 0.1,
+    "Fatal Bazooka": 1.0,
+    "Francky Vincent": 1.0,
+    "Metronomy": 0.3,
+    "Eiffel 65": 0.5,
+    "Lorenzo": 0.8,
+    "Stroma\u00e9": 0.6,
+    "Eminem": 1.0,
+    "Grand corps malade": 1.0
+  },
+  "Les petites bourrettes": {
+    "C418": 0.3,
+    "Didier Super": 0.1,
+    "La chanson du dimanche": 0.1,
+    "Yann Tiersen": 0.6,
+    "Fatal Bazooka": 0.8,
+    "Francky Vincent": 0.8,
+    "Metronomy": 0.4,
+    "Eiffel 65": 0.5,
+    "Lorenzo": 0.5,
+    "Stroma\u00e9": 0.2,
+    "Eminem": 1.0,
+    "Grand corps malade": 0.8
+  },
+  "C418": {
+    "Didier Super": 0.9,
+    "La chanson du dimanche": 0.8,
+    "Yann Tiersen": 0.1,
+    "Fatal Bazooka": 1.0,
+    "Francky Vincent": 1.0,
+    "Metronomy": 0.1,
+    "Eiffel 65": 0.3,
+    "Lorenzo": 1.0,
+    "Stroma\u00e9": 0.9,
+    "Eminem": 1.0,
+    "Grand corps malade": 1.0
+  },
+  "Didier Super": {
+    "La chanson du dimanche": 0.1,
+    "Yann Tiersen": 0.9,
+    "Fatal Bazooka": 0.1,
+    "Francky Vincent": 0.1,
+    "Metronomy": 0.9,
+    "Eiffel 65": 0.7,
+    "Lorenzo": 0.3,
+    "Stroma\u00e9": 0.6,
+    "Eminem": 0.5,
+    "Grand corps malade": 0.8
+  },
+  "La chanson du dimanche": {
+    "Yann Tiersen": 0.6,
+    "Fatal Bazooka": 0.8,
+    "Francky Vincent": 0.8,
+    "Metronomy": 0.4,
+    "Eiffel 65": 0.5,
+    "Lorenzo": 0.5,
+    "Stroma\u00e9": 0.2,
+    "Eminem": 0.8,
+    "Grand corps malade": 0.7
+  },
+  "Yann Tiersen": {
+    "Fatal Bazooka": 0.8,
+    "Francky Vincent": 0.8,
+    "Metronomy": 0.1,
+    "Eiffel 65": 0.6,
+    "Lorenzo": 0.8,
+    "Stroma\u00e9": 0.4,
+    "Eminem": 1.0,
+    "Grand corps malade": 0.4
+  },
+  "Fatal Bazooka": {
+    "Francky Vincent": 0.01,
+    "Metronomy": 0.9,
+    "Eiffel 65": 0.8,
+    "Lorenzo": 0.1,
+    "Stroma\u00e9": 0.7,
+    "Eminem": 0.2,
+    "Grand corps malade": 0.6
+  },
+  "Francky Vincent": {
+    "Metronomy": 0.9,
+    "Eiffel 65": 0.8,
+    "Lorenzo": 0.1,
+    "Stroma\u00e9": 0.5,
+    "Eminem": 0.8,
+    "Grand corps malade": 0.8
+  },
+  "Metronomy": {
+    "Eiffel 65": 0.5,
+    "Lorenzo": 0.8,
+    "Stroma\u00e9": 0.4,
+    "Eminem": 0.8,
+    "Grand corps malade": 0.8
+  },
+  "Eiffel 65": {
+    "Lorenzo": 0.7,
+    "Stroma\u00e9": 0.9,
+    "Eminem": 0.2,
+    "Grand corps malade": 1.0
+  },
+  "Lorenzo": {
+    "Stroma\u00e9": 0.5,
+    "Eminem": 0.2,
+    "Grand corps malade": 0.3
+  },
+  "Stroma\u00e9": {
+    "Eminem": 0.7,
+    "Grand corps malade": 0.2
+  },
+  "Eminem": {
+    "Grand corps malade": 0.3
+  },
+  "Grand corps malade": {}
+}
